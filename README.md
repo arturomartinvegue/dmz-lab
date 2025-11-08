@@ -1,4 +1,4 @@
-# Proyecto de configuración de una red DMZ.
+# Laboratorio para configurar una red DMZ.
 # Configuración de una red NAT.
 # Configuración de reglas ACL en un router Cisco vía comandos en CLI.
 # Topología con 3 redes, LAN, DMZ y Externa.
